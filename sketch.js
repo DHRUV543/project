@@ -16,7 +16,7 @@ function setup() {
 	ball.shapeColor=("green")
 ball.velocityY=-7
 ball.velocityX=7
-ball.Body.setGravity=true;
+
 	
 
 line1=createSprite(670,620,20,100)
